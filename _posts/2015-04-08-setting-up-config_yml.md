@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Setting up the _config.yml"
 date:   2015-04-08 10:35:06
 categories: jekyll update
 ---
