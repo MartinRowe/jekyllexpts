@@ -7,6 +7,7 @@ categories: jekyll update
 
 here is the code for the url setup (so I don't forget)
 
+{% highlight ruby %}
 # Site settings
 title: Jekyll Experiments
 email: martin.rowe@assessandimprove.co.uk
@@ -21,3 +22,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+{% end highlight %}
